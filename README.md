@@ -12,3 +12,7 @@
 3. **截图或附件**
 
 如果您准备好了一切请点击：https://github.com/ToiletMC/Issues/issues
+
+##传送门
+- SlimeFun：https://github.com/TheBusyBiscuit/Slimefun4/issues
+- Magic：https://github.com/elBukkit/MagicPlugin/issues
